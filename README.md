@@ -9,8 +9,8 @@ https://jp.his.gr.jp/symposium/hi2024-lectures/#course1
   - [使った動画](https://drive.google.com/file/d/1aJDTvYZ2FhnotG125nKos7bcyew9OBRG/view?usp=sharing)
 - 高齢者インタビューの分析
 - センチメント分析
-  -　[ソースコード](https://drive.google.com/file/d/1aJDTvYZ2FhnotG125nKos7bcyew9OBRG/view?usp=sharing)
-  -　[使ったデータ](https://drive.google.com/file/d/1aJDTvYZ2FhnotG125nKos7bcyew9OBRG/view?usp=sharing)
+  - 　[ソースコード](https://drive.google.com/file/d/1aJDTvYZ2FhnotG125nKos7bcyew9OBRG/view?usp=sharing)
+  - [使ったデータ](https://drive.google.com/file/d/1aJDTvYZ2FhnotG125nKos7bcyew9OBRG/view?usp=sharing)
 -　相互作用過程分析
   -　[ソースコード](https://drive.google.com/file/d/1aJDTvYZ2FhnotG125nKos7bcyew9OBRG/view?usp=sharing)
   -　[使ったデータ](https://drive.google.com/file/d/1aJDTvYZ2FhnotG125nKos7bcyew9OBRG/view?usp=sharing)
