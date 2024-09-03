@@ -1,8 +1,10 @@
 ヒューマンインタフェースシンポジウム2024講習会
-# コース1　「生成AI時代のデータ前処理と分析」サポートページ
+## コース1　「生成AI時代のデータ前処理と分析」サポートページ
 
 ## コース紹介
 https://jp.his.gr.jp/symposium/hi2024-lectures/#course1
+
+[資料](　https://drive.google.com/file/d/13lFlKdA-M_7l0TXUCzThDljnSjCJxZG_/view?usp=sharing)
 
 ## 内容
 - Google Geminiを使った動画の分析
