@@ -15,6 +15,6 @@ https://jp.his.gr.jp/symposium/hi2024-lectures/#course1
   - [ソースコード](https://drive.google.com/file/d/1aJDTvYZ2FhnotG125nKos7bcyew9OBRG/view?usp=sharing)
   - [使ったデータ](https://drive.google.com/file/d/1aJDTvYZ2FhnotG125nKos7bcyew9OBRG/view?usp=sharing)
 - 広告コピーの埋め込み表現
-  - 　[ソースコード](https://drive.google.com/file/d/1aJDTvYZ2FhnotG125nKos7bcyew9OBRG/view?usp=sharing)
+  - [ソースコード](https://drive.google.com/file/d/1aJDTvYZ2FhnotG125nKos7bcyew9OBRG/view?usp=sharing)
   - [使ったデータ](https://drive.google.com/file/d/1aJDTvYZ2FhnotG125nKos7bcyew9OBRG/view?usp=sharing)
   
