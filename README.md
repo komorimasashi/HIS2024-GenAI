@@ -20,4 +20,4 @@ https://jp.his.gr.jp/symposium/hi2024-lectures/#course1
   - [ソースコード（Furusato_Tax_Return_Goods_Analysis.ipynb）](https://github.com/komorimasashi/HIS2024-GenAI/blob/main/Furusato_Tax_Return_Goods_Analysis.ipynb)
   - [さとふる缶詰と弁当と本製品説明書き.txt](https://github.com/komorimasashi/HIS2024-GenAI/blob/main/%E3%81%95%E3%81%A8%E3%81%B5%E3%82%8B%E7%BC%B6%E8%A9%B0%E3%81%A8%E5%BC%81%E5%BD%93%E3%81%A8%E6%9C%AC%E8%A3%BD%E5%93%81%E8%AA%AC%E6%98%8E%E6%9B%B8%E3%81%8D.txt)
   [^1]
-[^1]: 長岡千賀（追手門学院大学）先生から提供された．
+[^1]: 長岡千賀先生（追手門学院大学）から提供された
